@@ -2,7 +2,8 @@ first u should install react+ Vite so u can do all further process
 
 
 
-# React + Vite
+# React + Vite![Screenshot 2023-09-10 174322](https://github.com/Shubhammal/Kanban_board/assets/96428456/e0cc5aa8-74ea-4db3-a6fe-5c47cc965e6c)
+
 
 STEP 1: - To start the kanban board first unzip the download file;
 STEP 2: - open the terminal in the client location ;
