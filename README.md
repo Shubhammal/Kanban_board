@@ -1,3 +1,7 @@
+first u should install react+ Vite so u can do all further process
+
+
+
 # React + Vite
 
 STEP 1: - To start the kanban board first unzip the download file;
